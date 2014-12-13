@@ -2,7 +2,7 @@
 
 ### Descriptions ###
 
-* Louis' Unity Template is a heads-on implementation for what need to be where in Unity.
+* Louis' Unity Template is a hands-on implementation for what need to be where in Unity.
 
 ### Walkthrough ###
 
